@@ -1,0 +1,4 @@
+model/User.class
+service/UserService.class
+repository/UserRepository.class
+rest/UserController.class
