@@ -25,8 +25,7 @@ public class Main {
                 case 0:
                     if (args.length == 2) {
                         service.addPersonsWithArgs(args);
-                    }
-                    else {
+                    } else {
                         System.out.println("Invalid arguments");
                     }
                     break;
@@ -37,7 +36,7 @@ public class Main {
                     service.sorter();
                     break;
                 case 3:
-                    String []s =scanner.nextLine().split(" ");
+                    String[] s = scanner.nextLine().split(" ");
                     if (s.length != 2) {
                         System.out.println("Incorrect data!Breaking...");
                         break;

@@ -7,6 +7,7 @@ import java.util.List;
 
 public class Parser {
     private List<Person> persons;
+
     public Parser() {
         persons = new ArrayList<>();
     }
@@ -15,8 +16,7 @@ public class Parser {
         return persons;
     }
 
-    public static void menuOOP()
-    {
+    public static void menuOOP() {
         System.out.println("Hello friend!Please enter a number");
         System.out.println("addFromIO");
         System.out.println("Sorter");
@@ -30,8 +30,7 @@ public class Parser {
         System.out.println("ClearData");
     }
 
-    public static void menu()
-    {
+    public static void menu() {
         System.out.println("Hello friend!Please enter a number");
         System.out.println("0-addWithArgs");
         System.out.println("1-addFromIO");

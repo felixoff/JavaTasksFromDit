@@ -3,8 +3,8 @@ package org.felix.persons.model;
 import java.util.Objects;
 
 public class Person {
-    private String firstName;
-    private String lastName;
+    private final String firstName;
+    private final String lastName;
 
     public Person(String[] s) {
         firstName = s[0];
@@ -14,14 +14,9 @@ public class Person {
     public String getFirstName() {
         return firstName;
     }
+
     public String getLastName() {
         return lastName;
-    }
-    public void setFirstName(String firstName) {
-        this.firstName = firstName;
-    }
-    public void setLastName(String lastName) {
-        this.lastName = lastName;
     }
 
     @Override
@@ -29,7 +24,7 @@ public class Person {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Person person = (Person) o;
-        return  Objects.equals(firstName,person.firstName) && Objects.equals(lastName, person.lastName);
+        return Objects.equals(firstName, person.firstName) && Objects.equals(lastName, person.lastName);
     }
 
     @Override
@@ -39,7 +34,7 @@ public class Person {
 
     @Override
     public String toString() {
-        return "Person(firstName='" + this.firstName + "', lastName='" + this.lastName +"')";
+        return "Person(firstName='" + this.firstName + "', lastName='" + this.lastName + "')";
     }
 }
 

@@ -120,14 +120,15 @@ public class MainOOP {
             }
         }
     }
-        public static void main(String[] args) throws Exception {
-            Service service = new Service();
-            Scanner scanner = new Scanner(System.in);
-            if (args.length == 2) {
-                service.addPersonsWithArgs(args);//  первое задание  выполнил отдельно от меню так как в меню не передаюься по заданию argc а только сканнер
-            } else {
-                System.out.println("Invalid arguments");
-            }
-            Menu menu = new Menu(scanner);// вызов меню интерактивного с выпонением задач остальных
+
+    public static void main(String[] args) throws Exception {
+        Service service = new Service();
+        Scanner scanner = new Scanner(System.in);
+        if (args.length == 2) {
+            service.addPersonsWithArgs(args);//  первое задание  выполнил отдельно от меню так как в меню не передаюься по заданию argc а только сканнер
+        } else {
+            System.out.println("Invalid arguments");
         }
+        Menu menu = new Menu(scanner);// вызов меню интерактивного с выпонением задач остальных
     }
+}
