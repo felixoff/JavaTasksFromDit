@@ -1,0 +1,11 @@
+org/felix/security/Application.class
+org/felix/security/repos/UserRepo.class
+org/felix/security/repos/MessageRepo.class
+org/felix/security/domain/User.class
+org/felix/security/domain/Role.class
+org/felix/security/service/UserService.class
+org/felix/security/controller/MainController.class
+org/felix/security/config/MvcConfig.class
+org/felix/security/controller/RegistrationController.class
+org/felix/security/domain/Message.class
+org/felix/security/config/WebSecurityConfig.class
