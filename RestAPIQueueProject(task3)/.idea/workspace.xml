@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3d9d4f7-631a-4b2e-b713-5512e4bc09a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Felixov_Nikita_task_queue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/felix/api/model/handlers/AllHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/felix/api/model/handlers/PeekHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/felix/api/model/handlers/PeekMaxHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/felix/api/model/handlers/PollHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/felix/api/model/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/felix/api/AllHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/felix/api/BaseOper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/felix/api/model/repository/BaseOper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/felix/api/BusinessLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/felix/api/model/service/BusinessLogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/felix/api/H2JDBCUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/felix/api/InitTables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/felix/api/model/utils/InitTables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/felix/api/OfferHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/felix/api/model/handlers/OfferHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/felix/api/PeekHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/felix/api/PeekMaxHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/felix/api/PollHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/felix/api/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/felix/api/model/model/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/felix/api/QueueComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/felix/api/ReadFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/felix/api/model/utils/ReadFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/felix/api/StartServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/felix/api/model/utils/StartServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/felix/api/UserCrud.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/felix/api/model/repository/UserCrud.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/initTable.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/initTable.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/initTable.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/initTable.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/felix/api/AllHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/felix/api/BaseOper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/felix/api/BusinessLogic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/felix/api/H2JDBCUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/felix/api/InitTables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/felix/api/OfferHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/felix/api/PeekHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/felix/api/PeekMaxHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/felix/api/PollHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/felix/api/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/felix/api/QueueComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/felix/api/ReadFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/felix/api/StartServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/felix/api/UserCrud.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1tiO79TWMzWwxXvWu2beW6lyRkj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.felix.api.model.Main" />
+      <module name="Felixov_Nikita_task_queue" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3d9d4f7-631a-4b2e-b713-5512e4bc09a4" name="Default Changelist" comment="" />
+      <created>1623248272893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623248272893</updated>
+      <workItem from="1623248274004" duration="5053000" />
+      <workItem from="1623307004931" duration="5367000" />
+      <workItem from="1623315256282" duration="541000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
