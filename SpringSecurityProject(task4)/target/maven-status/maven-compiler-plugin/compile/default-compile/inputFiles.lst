@@ -1,0 +1,12 @@
+/Users/a19188656/Desktop/JavaTasksFromDit/Security/src/main/java/org/felix/security/config/WebSecurityConfig.java
+/Users/a19188656/Desktop/JavaTasksFromDit/Security/src/main/java/org/felix/security/controller/MainController.java
+/Users/a19188656/Desktop/JavaTasksFromDit/Security/src/main/java/org/felix/security/controller/RegistrationController.java
+/Users/a19188656/Desktop/JavaTasksFromDit/Security/src/main/java/org/felix/security/domain/Role.java
+/Users/a19188656/Desktop/JavaTasksFromDit/Security/src/main/java/org/felix/security/controller/UserController.java
+/Users/a19188656/Desktop/JavaTasksFromDit/Security/src/main/java/org/felix/security/domain/User.java
+/Users/a19188656/Desktop/JavaTasksFromDit/Security/src/main/java/org/felix/security/repos/UserRepo.java
+/Users/a19188656/Desktop/JavaTasksFromDit/Security/src/main/java/org/felix/security/domain/Message.java
+/Users/a19188656/Desktop/JavaTasksFromDit/Security/src/main/java/org/felix/security/repos/MessageRepo.java
+/Users/a19188656/Desktop/JavaTasksFromDit/Security/src/main/java/org/felix/security/Application.java
+/Users/a19188656/Desktop/JavaTasksFromDit/Security/src/main/java/org/felix/security/service/UserService.java
+/Users/a19188656/Desktop/JavaTasksFromDit/Security/src/main/java/org/felix/security/config/MvcConfig.java
